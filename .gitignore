@@ -1,5 +1,4 @@
 newrelic.js
-newrelic_agent.log
 node_modules/
 artillery.yaml
 generate.js
